@@ -1,0 +1,35 @@
+<style>
+#header {
+background-color: blue;
+text-align: center;
+margin: 1px;
+border-radius: 1px;
+}
+</style>
+<div id="header">
+ Your site name here
+</div>
+<hr color="black">
+<h2><marquee behavior="scroll" direction="down"> Welcome to your sample site </marquee></h2>
+<h5> Headlines </h5>
+<div class="content">
+<div style="height: 500px;
+background: lime"><h2> Top message </h2>
+<p><i> Come around today and be the one to help one of the 1,000,000++++ orphans out there </p>
+<p> You can make a change by donating just $1 today,
+You don't have to be self-centered. Just try putting yourself in the shoes of the orphans. </p>
+</div>
+<style>
+#footer {
+position: fixed;
+left: 0px;
+bottom: 0px;
+height: 30px;
+width: 100%;
+background-color: lime;
+color: red;
+text-align: center;
+}
+</style>
+<body>
+<div id="footer"> Powered by po-we-r </div>
